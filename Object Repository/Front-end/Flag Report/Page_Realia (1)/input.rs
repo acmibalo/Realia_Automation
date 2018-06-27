@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>6d873936-c50c-46e4-bec0-8cfc50f30545</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-review-create-edit-form&quot;)/div[@class=&quot;row add-street-review-container&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;rl-form-group&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;how-do-you-know&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/input[1]</value>
+   </webElementProperties>
+</WebElementEntity>

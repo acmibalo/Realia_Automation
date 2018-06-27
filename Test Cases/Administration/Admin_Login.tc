@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8da85fbc-3bfc-4d0c-8507-907766ddfd22</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9822a8e2-372b-4746-b42e-ab727e1277a0</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change the username and Password in global variables.</description>
+   <name>Agent_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c1ed34-5873-4541-958c-deb1005ced75</testCaseGuid>
+</TestCaseEntity>

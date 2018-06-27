@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submit</name>
+   <tag></tag>
+   <elementGuidId>96bed272-4514-4263-ac1e-144fe584d8c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;rl-page-single-property&quot;]/div[@class=&quot;container-fluid rl-mainBody&quot;]/div[@class=&quot;question-details-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;rl-property-question&quot;]/div[@class=&quot;answer-container&quot;]/div[@class=&quot;question-details-answer&quot;]/div[@class=&quot;rl-message-thread&quot;]/div[@class=&quot;rl-message-item container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;comment-container&quot;]/div[@class=&quot;comment-thread-36&quot;]/div[@class=&quot;rl-comment-thread&quot;]/div[@class=&quot;rl-comment-items rlblock&quot;]/div[@class=&quot;rl-comment-item rlblock&quot;]/div[@class=&quot;reply-thread-84&quot;]/div[@class=&quot;rl-comment-thread&quot;]/div[@class=&quot;rl-cmnt-textarea input-group reply-area-84&quot;]/div[@class=&quot;input-group&quot;]/a[@class=&quot;input-group-addon btn btn-info btn-post-reply btn-post-reply-84 btn-color-turquoise&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon btn btn-info btn-post-reply btn-post-reply-84 btn-color-turquoise</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-entity-id</name>
+      <type>Main</type>
+      <value>84</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reply-type</name>
+      <type>Main</type>
+      <value>Comment</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;rl-page-single-property&quot;]/div[@class=&quot;container-fluid rl-mainBody&quot;]/div[@class=&quot;question-details-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;rl-property-question&quot;]/div[@class=&quot;answer-container&quot;]/div[@class=&quot;question-details-answer&quot;]/div[@class=&quot;rl-message-thread&quot;]/div[@class=&quot;rl-message-item container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;comment-container&quot;]/div[@class=&quot;comment-thread-36&quot;]/div[@class=&quot;rl-comment-thread&quot;]/div[@class=&quot;rl-comment-items rlblock&quot;]/div[@class=&quot;rl-comment-item rlblock&quot;]/div[@class=&quot;reply-thread-84&quot;]/div[@class=&quot;rl-comment-thread&quot;]/div[@class=&quot;rl-cmnt-textarea input-group reply-area-84&quot;]/div[@class=&quot;input-group&quot;]/a[@class=&quot;input-group-addon btn btn-info btn-post-reply btn-post-reply-84 btn-color-turquoise&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

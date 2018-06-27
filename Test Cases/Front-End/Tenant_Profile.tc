@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change the username and Password in global variables.</description>
+   <name>Tenant_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eb15de0-4193-429d-8f24-fc00876b66e4</testCaseGuid>
+</TestCaseEntity>

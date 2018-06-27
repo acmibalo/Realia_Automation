@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Social Network</name>
+   <tag></tag>
+   <elementGuidId>ca2be6f6-71f5-4d49-94dc-df3de18965d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;profile&quot;)/div[@class=&quot;profile-settings-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/ul[@class=&quot;nav nav-tabs responsive-tabs&quot;]/li[2]/a[@class=&quot;social-network-tab&quot;][count(. | //*[@href = '#social-network' and @class = 'social-network-tab']) = count(//*[@href = '#social-network' and @class = 'social-network-tab'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#social-network</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>social-network-tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Social Network</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;profile-settings-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/ul[@class=&quot;nav nav-tabs responsive-tabs&quot;]/li[2]/a[@class=&quot;social-network-tab&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

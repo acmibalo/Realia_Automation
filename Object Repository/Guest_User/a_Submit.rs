@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submit</name>
+   <tag></tag>
+   <elementGuidId>02fba789-502d-4ead-a53b-780a8ccef2c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class = 'input-group-addon btn btn-info btn-post-question btn-color-turquoise' and (text() = 'Submit' or . = 'Submit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon btn btn-info btn-post-question btn-color-turquoise</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-entity-id</name>
+      <type>Main</type>
+      <value>167</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-question-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;rl-comment-thread&quot;]/div[@class=&quot;rl-cmnt-textarea input-group&quot;]/div[@class=&quot;input-group&quot;]/a[@class=&quot;input-group-addon btn btn-info btn-post-question btn-color-turquoise&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

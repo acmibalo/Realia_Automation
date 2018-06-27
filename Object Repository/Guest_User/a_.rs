@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>58030c86-4d28-4b45-97fd-449c5e600048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;registerForm&quot;)/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;name-for-tenant-landlord&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/span[@class=&quot;help-info&quot;]/a[@class=&quot;enable-tooltip sign-up-tooltip&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enable-tooltip sign-up-tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>By default your first name and surname will be shown when posting. You can change it to your username instead at settings</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip949880</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerForm&quot;)/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;name-for-tenant-landlord&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/span[@class=&quot;help-info&quot;]/a[@class=&quot;enable-tooltip sign-up-tooltip&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

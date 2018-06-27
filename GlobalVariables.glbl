@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description>Admin Username</description>
+      <initValue>'admin@mailinator.com'</initValue>
+      <name>username_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>admin Password</description>
+      <initValue>'admin123'</initValue>
+      <name>password_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test username for front-end</description>
+      <initValue>'realia_alvin36@mailinator.com'</initValue>
+      <name>username_frontend</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test password for front-end</description>
+      <initValue>'P@ssw0rd'</initValue>
+      <name>password_frontend</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

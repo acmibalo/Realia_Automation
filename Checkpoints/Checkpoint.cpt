@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/New Test Data</source-url>
+   </source-info>
+   <taken-date>2018-06-15T16:33:17.747</taken-date>
+   <column-names/>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

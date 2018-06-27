@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Change the property name in the Variable tab.
+2. Change the property name in Line 15 Object.</description>
+   <name>Property_Review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae15c8cc-b673-4323-93bd-5de2bfc8f6ce</testCaseGuid>
+   <variable>
+      <defaultValue>'1 May Terrace, Brooklyn Park SA 5032, Australia'</defaultValue>
+      <description></description>
+      <id>2faba378-383d-49b1-9783-bd7fc3562994</id>
+      <masked>false</masked>
+      <name>Property_Name</name>
+   </variable>
+</TestCaseEntity>

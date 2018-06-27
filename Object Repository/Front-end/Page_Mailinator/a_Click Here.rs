@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click Here</name>
+   <tag></tag>
+   <elementGuidId>c1fd8582-f288-4a86-a4be-9a5faa14973b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://click1.clickrouter.com/redirect?token=a2258079c24c4c50a56b6b1ffb75d6e2&amp;url=https%3A//u6799198.ct.sendgrid.net/wf/click%3Fupn%3DvPNQ-2FOkUiSOAlVmsEgp6z2eAjZYw6e5mNjOZtYCfLbHuEii1IuUlNuNFK23BzKDJoyk-2BdXEyyzc2jC4tzK9qzlRWXWis1ow4XrJmdSvTRtagMCkEwcnhZAXgPPVpHXi1Pdc-2Fo-2B6Bu-2F6ub-2B1WvCUYN-2BNDXivSBBao4hyOsGp-2Fpm6b-2FwjW-2BFI-2FHuIDUZissQYKjVimXPRbHVYAb5s4CMHY01ak4MGra8akPe9R6N9bTl2xa3C5dzoUbO1R6b-2FVGOMhrjOgEz099vQoEI8lJ3x-2FKNbJSjjSJ-2B0zdatZZLCgFYuPlc4XuVUerkc-2BSLs3aYZzBwh8ftlxUB96k-2BeLRxykjADrz69wpLGVaW07GdXzRJaIDFsD6RaMXc-2BcoJp7Jjpei73w-2Fbp-2FamyyxKvcTK-2Bqxx1M5jBhbgG0Sj9Ucw4iyAenwUnH7-2FqwgPuZr-2BzavoPi_DaeO-2BiOMCclMlHPt2i39h0y7wffwU-2BNMALc-2F6iL41GQSsQte-2Ff6e2ciqaT-2FI68hGL65BW3UqyZaiHqnVXodrPtEd6Ww1UmjWo-2FaSu4ideKiY0c33DR17SSpmGlKVLWBzpicvPihUOqAm6w7wXt7v-2Ft-2F0TJb2WWQUiSnFB7avjcJH-2FT8vXD0q4cJFIokPeFo4Mbm1Q89GI8x6wLfg0RwiSU5-2BBO-2BRCAaVpLGD4VbkN94-3D</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_other</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click Here</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[3]/a[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Front-end/Page_Mailinator/iframe_EMAIL BODY</value>
+   </webElementProperties>
+</WebElementEntity>

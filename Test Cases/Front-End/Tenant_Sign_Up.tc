@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is for the tenant sign up process.
+Change the new tenant email and firstname varialbles in row 4 and 5</description>
+   <name>Tenant_Sign_Up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c25a897-5d6a-4bd5-b953-017da69d6078</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>690f0b15-8ca4-4f9f-ab50-5cdf82e8049c</id>
+      <masked>false</masked>
+      <name>capcha</name>
+   </variable>
+   <variable>
+      <defaultValue>'realia_alvin33@mailinator.com'</defaultValue>
+      <description>Tenant</description>
+      <id>3a040ca9-ce05-4c7b-a18d-2b301c22aa06</id>
+      <masked>false</masked>
+      <name>tenant_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'alvin33'</defaultValue>
+      <description>Tenant</description>
+      <id>d4766cdb-5fda-4239-be81-561896c1f3ac</id>
+      <masked>false</masked>
+      <name>tenant_firstname</name>
+   </variable>
+</TestCaseEntity>
