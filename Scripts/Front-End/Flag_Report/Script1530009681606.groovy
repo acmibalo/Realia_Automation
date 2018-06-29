@@ -64,20 +64,6 @@ WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/input'))
 
 WebUI.delay(5)
 
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-not_run: WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/i_glyphicon glyphicon-star'))
-
-WebUI.delay(5)
-
 WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/button_Submit Review'))
 
 WebUI.delay(5)
