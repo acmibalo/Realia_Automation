@@ -7,13 +7,13 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'fa fa-ellipsis-h']</value>
+         <value>id(&quot;viewall&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;all-feeds-container&quot;]/div[@class=&quot;rl-feed-item&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;rl-feed-item-footer&quot;]/ul[@class=&quot;rl-icon-list&quot;]/li[3]/a[@id=&quot;btn-show-report&quot;]/i[@class=&quot;fa fa-ellipsis-h&quot;][count(. | //i[@class = 'fa fa-ellipsis-h']) = count(//i[@class = 'fa fa-ellipsis-h'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -27,7 +27,7 @@
       <value>fa fa-ellipsis-h</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

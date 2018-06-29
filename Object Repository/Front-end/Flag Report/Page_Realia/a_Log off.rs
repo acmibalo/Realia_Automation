@@ -4,10 +4,16 @@
    <name>a_Log off</name>
    <tag></tag>
    <elementGuidId>39a8250f-43f5-4e01-8f45-c6a65b19555b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;logoutForm-front&quot;)/ul[@class=&quot;nav navbar-nav navbar-right rl-topright-menu&quot;]/li[@class=&quot;dropdown rl-usertoggle-div open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/a[@class=&quot;log-off&quot;][count(. | //*[@href = concat('javascript:document.getElementById(' , &quot;'&quot; , 'logoutForm' , &quot;'&quot; , ').submit()') and (text() = 'Log off' or . = 'Log off')]) = count(//*[@href = concat('javascript:document.getElementById(' , &quot;'&quot; , 'logoutForm' , &quot;'&quot; , ').submit()') and (text() = 'Log off' or . = 'Log off')])]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -35,7 +41,7 @@
       <value>Log off</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

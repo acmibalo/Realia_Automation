@@ -4,6 +4,12 @@
    <name>a_Not good Review</name>
    <tag></tag>
    <elementGuidId>9f1d94a4-5b61-4c3a-8b41-267f2886df07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]/a[1][count(. | //a[(text() = 'Not good Review!' or . = 'Not good Review!')]) = count(//a[(text() = 'Not good Review!' or . = 'Not good Review!')])]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -14,7 +20,7 @@
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -28,7 +34,7 @@
       <value>Not good Review!</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

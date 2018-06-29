@@ -94,6 +94,10 @@ WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/button_Submit 
 
 WebUI.delay(5)
 
+WebUI.waitForElementNotPresent(findTestObject('Front-end/Flag Report/Page_Realia (2)/span_Rating is required.'), 30)
+
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia (1)/h4_Agent33'))
 
 WebUI.delay(5)
@@ -120,7 +124,7 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia/button_Send Report'))
 
-WebUI.delay(5)
+WebUI.delay(12)
 
 WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia/h4_alvin35'))
 
@@ -132,13 +136,13 @@ WebUI.delay(5)
 
 WebUI.callTestCase(findTestCase('Administration/Admin_Login'), [('variable') : ''], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(10)
 
-WebUI.click(findTestObject('Front-end/Flag Report/Page_Realia/div_Flagged Users 1'))
+WebUI.navigateToUrl('http://realia-uat.azurewebsites.net/admin/home/flaggedusers')
 
-WebUI.delay(5)
+WebUI.delay(15)
 
-WebUI.rightClick(findTestObject('Front-end/Flag Report/Page_Realia/a_Not good Review'))
+WebUI.verifyElementPresent(findTestObject('Front-end/Flag Report/Page_Realia/a_Not good Review'), 0)
 
 WebUI.delay(5)
 
