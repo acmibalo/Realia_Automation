@@ -24,107 +24,195 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://realia-uat.azurewebsites.net/')
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log in'))
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), 'realia_alvin36@mailinator.com')
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), 'P@ssw0rd')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), GlobalVariable.Tenant_Username)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), GlobalVariable.Tenant_Password)
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/input_btn btn-primary'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Manager09'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Follow 0'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Alvin36'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_glyphicon glyphicon-envel'))
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Compose'))
-
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_select2-selection select2'))
-
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_select2-search__field'), 'Manager09')
-
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/button_'))
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Alvin36'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log off'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log in'))
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), 'realia_mngr09@company.com')
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), 'P@ssw0rd')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), GlobalVariable.Manager_username)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), GlobalVariable.Manager_Password)
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/input_btn btn-primary'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_glyphicon glyphicon-envel'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Compose'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_select2-selection select2'))
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_select2-search__field'), 'al')
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/li_Alvin36'))
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/textarea_Content'), 'Hi How you Alvin 36?')
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/button_Send'))
+
+WebUI.delay(5)
 
 WebUI.rightClick(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Manager09_1'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log off'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log in'))
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), 'realia_alvin36@mailinator.com')
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), 'P@ssw0rd')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), GlobalVariable.Tenant_Username)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), GlobalVariable.Tenant_Password)
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/input_btn btn-primary'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_1'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/div_33s ago'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Send Message'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Report'))
 
+WebUI.delay(5)
+
 WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/textarea_Description'), 'Not good Email message! Rude!')
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/button_Send Report'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Alvin36'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log off'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log in'))
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), 'realia_mngr09@company.com')
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), 'P@ssw0rd')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_EmailOrUserName'), GlobalVariable.Manager_username)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), GlobalVariable.Manager_Password)
+
+WebUI.delay(5)
 
 WebUI.sendKeys(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), Keys.chord(Keys.ENTER))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_1'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/div_Just Now'))
 
+WebUI.delay(5)
+
 WebUI.rightClick(findTestObject('Front-end/Private Messaging/Page_Realia/p_Im good How about you'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/p_Im good How about you'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Manager09_1'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Log off'))
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 
