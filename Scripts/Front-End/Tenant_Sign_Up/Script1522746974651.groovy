@@ -32,21 +32,33 @@ WebUI.delay(10)
 
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_Email'), tenant_email)
 
+WebUI.delay(5)
+
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_FirstName'), tenant_firstname)
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_LastName'), 'UAT')
 
+WebUI.delay(5)
+
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_DisplayName'), tenant_firstname)
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_PostCode'), '9407')
 
+WebUI.delay(5)
+
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_Password'), 'P@ssw0rd')
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_ConfirmPassword'), 'P@ssw0rd')
 
-WebUI.setText(findTestObject('Front-end/Page_Realia/input_CaptchaInputText'), capcha)
+not_run: WebUI.setText(findTestObject('Front-end/Page_Realia/input_CaptchaInputText'), capcha)
 
-WebUI.delay(10)
+WebUI.delay(25)
 
 WebUI.click(findTestObject('Front-end/Page_Realia/input_check_agree_termofservic'))
 
@@ -77,4 +89,8 @@ WebUI.setText(findTestObject('Front-end/Page_Realia/input_EmailOrUserName'), ten
 WebUI.setText(findTestObject('Front-end/Page_Realia/input_Password'), 'P@ssw0rd')
 
 WebUI.click(findTestObject('Front-end/Page_Realia/input_btn btn-primary'))
+
+WebUI.delay(15)
+
+WebUI.closeBrowser()
 

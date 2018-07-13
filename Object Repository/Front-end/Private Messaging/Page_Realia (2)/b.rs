@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h4_Manager09_1</name>
+   <name>b</name>
    <tag></tag>
-   <elementGuidId>14cccc4c-e709-4893-a6e4-cc59c1e87236</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;logoutForm-front&quot;)/ul[@class=&quot;nav navbar-nav navbar-right rl-topright-menu&quot;]/li[@class=&quot;dropdown rl-usertoggle-div&quot;]/a[@class=&quot;dropdown-toggle rl-usertoggle&quot;]/h4[1]</value>
-      </entry>
-   </selectorCollection>
+   <elementGuidId>3313f223-fafa-4e65-93a1-a1f0d8d59e53</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -17,20 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h4</value>
+      <value>b</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>role</name>
       <type>Main</type>
-      <value>Manager09  </value>
+      <value>presentation</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logoutForm-front&quot;)/ul[@class=&quot;nav navbar-nav navbar-right rl-topright-menu&quot;]/li[@class=&quot;dropdown rl-usertoggle-div&quot;]/a[@class=&quot;dropdown-toggle rl-usertoggle&quot;]/h4[1]</value>
+      <value>id(&quot;compose-message-form&quot;)/div[@class=&quot;input-group&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
    </webElementProperties>
 </WebElementEntity>

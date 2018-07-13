@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://realia-uat.azurewebsites.net/')
+WebUI.navigateToUrl('https://realia-uat.azurewebsites.net/')
 
 WebUI.delay(5)
 
@@ -42,7 +42,9 @@ WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/input_btn bt
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Manager09'))
+WebUI.navigateToUrl('https://realia-uat.azurewebsites.net/Profile/Details/810cdc9a-6664-4bf5-8215-1a2a44597d1a/manager09')
+
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Manager09'))
 
 WebUI.delay(5)
 
@@ -90,19 +92,23 @@ WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Compose'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_select2-selection select2'))
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_select2-selection select2'))
+
+WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (1)/span_select2-selection select2'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_select2-search__field'), 'al')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/input_select2-search__field'), firstname)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/li_Alvin36'))
+WebUI.sendKeys(findTestObject('Front-end/Private Messaging/Page_Realia/input_select2-search__field'), Keys.chord(Keys.ENTER))
+
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/li_Alvin36'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/textarea_Content'), 'Hi How you Alvin 36?')
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia/textarea_Content'), 'Hi How you Alvin?')
 
 WebUI.delay(5)
 
@@ -110,11 +116,13 @@ WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/button_Send'
 
 WebUI.delay(5)
 
-WebUI.rightClick(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
+not_run: WebUI.rightClick(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
 
-WebUI.delay(5)
+not_run: WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/p_Hi How you Alvin 36'))
+
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (3)/div_9m ago                   A'))
 
 WebUI.delay(5)
 
@@ -140,19 +148,19 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/input_btn btn-primary'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_1'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/div_33s ago'))
+WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (5)/b_Manager09'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Send Message'))
+not_run: WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Send Message'))
 
-WebUI.delay(5)
+not_run: WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/a_Report'))
 
@@ -164,7 +172,7 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/button_Send Report'))
 
-WebUI.delay(5)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/h4_Alvin36'))
 
@@ -194,15 +202,15 @@ WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_1'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/div_Just Now'))
+WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (6)/b_alvin40'))
 
 WebUI.delay(5)
 
-WebUI.rightClick(findTestObject('Front-end/Private Messaging/Page_Realia/p_Im good How about you'))
+WebUI.setText(findTestObject('Front-end/Private Messaging/Page_Realia (7)/div_emoji-wysiwyg-editor form-'), 'Im good, how about you?')
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/p_Im good How about you'))
+WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (7)/a_Send Message'))
 
 WebUI.delay(5)
 

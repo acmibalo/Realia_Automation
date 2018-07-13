@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Just Now</name>
+   <name>div_9m ago                   A</name>
    <tag></tag>
-   <elementGuidId>4fc6010e-65f9-4349-a6e4-a63b32d78022</elementGuidId>
+   <elementGuidId>668e1fad-7cbe-4dca-b28c-c75ba52db43f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>                                                                               Just Now                    Alvin36                   Im good! How about you?                         </value>
+      <value>                                                                              9m ago                   Alvin36                   Hi How you Alvin 36?                        </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
