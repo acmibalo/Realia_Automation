@@ -196,9 +196,9 @@ WebUI.delay(5)
 
 WebUI.sendKeys(findTestObject('Front-end/Private Messaging/Page_Realia/input_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
-WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia/span_1'))
+WebUI.click(findTestObject('Front-end/Private Messaging/Page_Realia (8)/span_glyphicon glyphicon-envel'))
 
 WebUI.delay(5)
 

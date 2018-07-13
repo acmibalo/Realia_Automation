@@ -3,14 +3,14 @@
    <description>Notes:
 
 1. Change the value of the global tenant variable with a newly created account.
-
-2. Change the firstname value in row 92.</description>
+2. Change the local variable firstname value.
+3. Change the firstname value in row 92.</description>
    <name>Private Messaging</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>82b5ef4a-92f1-45fb-962e-8de540fe29bf</testCaseGuid>
    <variable>
-      <defaultValue>'alvin40'</defaultValue>
+      <defaultValue>'alvin42'</defaultValue>
       <description></description>
       <id>4374d664-812e-453b-9d26-6a39d83eebf3</id>
       <masked>false</masked>

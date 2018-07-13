@@ -14,14 +14,14 @@ Change the new tenant email and firstname varialbles in row 4 and 5</description
       <name>capcha</name>
    </variable>
    <variable>
-      <defaultValue>'realia_alvin40@mailinator.com'</defaultValue>
+      <defaultValue>'realia_alvin42@mailinator.com'</defaultValue>
       <description>Tenant</description>
       <id>3a040ca9-ce05-4c7b-a18d-2b301c22aa06</id>
       <masked>false</masked>
       <name>tenant_email</name>
    </variable>
    <variable>
-      <defaultValue>'alvin40'</defaultValue>
+      <defaultValue>'alvin42'</defaultValue>
       <description>Tenant</description>
       <id>d4766cdb-5fda-4239-be81-561896c1f3ac</id>
       <masked>false</masked>
