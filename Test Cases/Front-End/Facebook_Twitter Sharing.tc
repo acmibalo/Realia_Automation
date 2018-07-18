@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook_Twitter Sharing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa99e3eb-c786-4fcd-a4b0-be2df8e099bc</testCaseGuid>
+   <variable>
+      <defaultValue>'realia_alvin41@mailinator.com'</defaultValue>
+      <description></description>
+      <id>93017fbb-b746-4776-af93-312ec0b90b08</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@ssw0rd'</defaultValue>
+      <description></description>
+      <id>71cc876d-f523-4af9-b80e-6226a81ba4c2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
